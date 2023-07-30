@@ -1,0 +1,11 @@
+Ans2:- 
+Output of the given code:-
+5
+5
+5
+5
+5
+because setTimeout() method calls a function 
+after a number of milliseconds. It will call console log
+function after 0.1 second as we passed as a arugement 
+function and the time in second.

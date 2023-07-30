@@ -1,0 +1,11 @@
+ans9:-
+The output of the code is:-
+array 1: length=5 last=j,o,n,e,s
+array 2: length=5 last=j,o,n,e,s
+
+Beacuse first spilt method spilt arr1 varible
+then reverse method reverse it and store it in
+arr2. arr3 varible is also spilited and stored,
+After that we pushed arr3 in arr2. and conclude 
+the length of the array. Since The slice() method selects 
+from a given start It is doing so.

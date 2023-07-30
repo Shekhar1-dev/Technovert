@@ -1,0 +1,7 @@
+ans 10:-
+Output:-
+1
+4
+2
+3
+beacuse JavaScript Asynchronicity Execute the code. and 100 time setTimeout method runs last.

@@ -1,0 +1,8 @@
+Ans8:- 
+Output of the programme is
+1
+4
+3
+2
+
+Because JavaScript Asynchronicity Execute the code.
